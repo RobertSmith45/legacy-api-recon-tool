@@ -15,7 +15,7 @@
     "/api/health",
     "/debug",
     "/backup",
-    "/admin",
+    "/admin/login?admin_key=",
     "/phpmyadmin",
     "/webconfig",
     "/.git",
