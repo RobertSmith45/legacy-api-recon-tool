@@ -1,0 +1,24 @@
+{
+  "legacy_endpoints": [
+    "/api/legacy/search_customers",
+    "/api/legacy/user_profile",
+    "/api/legacy/admin_panel",
+    "/api/legacy/backup",
+    "/api/legacy/debug",
+    "/api/legacy/search_users",
+    "/api/legacy/get_customer_data",
+    "/api/legacy/export_data"
+  ],
+  "common_endpoints": [
+    "/api/v1/users",
+    "/api/v1/admin",
+    "/api/health",
+    "/debug",
+    "/backup",
+    "/admin",
+    "/phpmyadmin",
+    "/webconfig",
+    "/.git",
+    "/api/docs"
+  ]
+}
